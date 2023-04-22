@@ -10,6 +10,10 @@ Wiki Home page on on Github (invited contributors only): [https://github.com/bri
 ## Overview
 IDP use this Github repository (britishlibrary/idp-data-issues) to record and communicate around data problems. We use a Github repo because this provides a mechanism for storing reports, etcs, associated with a given issue. The underlying 4D code and data for the IDP site are NOT part of the repo.
 
+The visibility of the repo (with very little in it) is temporarily Public; however, we intend to make it Private once the various interested parties have been identified and added as named contributors on Github.
+
+## Links
+
 Wiki pages internal to the repo are added and modified using Github in a browser: [https://github.com/britishlibrary/idp-data-issues/wiki](https://github.com/britishlibrary/idp-data-issues/wiki)
 
 Issues pages internal to the repo are also added and modified using Github in a browser: [https://github.com/britishlibrary/idp-data-issues/issues](https://github.com/britishlibrary/idp-data-issues/issues)
