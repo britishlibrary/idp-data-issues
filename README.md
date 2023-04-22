@@ -14,4 +14,4 @@ Wiki pages internal to the repo are added and modified using Github in a browser
 
 Issues pages internal to the repo are also added and modified using Github in a browser: [https://github.com/britishlibrary/idp-data-issues/issues](https://github.com/britishlibrary/idp-data-issues/issues)
 
-A separate Excel sheet on BL Sharepoint is also used for recording issues: [https://bluk.sharepoint.com/:x:/s/PRJ_InternationalDunhuangProjectWebsiteUpdate/EUCIQwcbyQRIorutgvX-K5EB_y0agjP5WuE_58pJvNa7xQ?e=kpk0Ix&CID=36338757-8A2E-4939-B6BC-ACA364A7FA2B](IDP website issues log v.1.0.xlsx)
+A separate Excel sheet on BL Sharepoint is also used for recording issues: [IDP website issues log v.1.0.xlsx](https://bluk.sharepoint.com/:x:/s/PRJ_InternationalDunhuangProjectWebsiteUpdate/EUCIQwcbyQRIorutgvX-K5EB_y0agjP5WuE_58pJvNa7xQ?e=kpk0Ix&CID=36338757-8A2E-4939-B6BC-ACA364A7FA2B)
