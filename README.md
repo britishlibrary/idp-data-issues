@@ -1,5 +1,5 @@
 # idp-data-issues
-International Dunhuang Project - data issues repository
+**International Dunhuang Project - data issues repository**
 
 Public home page: [https://britishlibrary.github.io/idp-data-issues](https://britishlibrary.github.io/idp-data-issues)
 
