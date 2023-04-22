@@ -8,7 +8,7 @@ Private repo on Github (invited contributors only): [https://github.com/britishl
 Wiki Home page on Github (invited contributors only): [https://github.com/britishlibrary/idp-data-issues/wiki/IDP-data-issues---home](https://github.com/britishlibrary/idp-data-issues/wiki/IDP-data-issues---home)
 
 ## Overview
-IDP use this Github repository (britishlibrary/idp-data-issues) to record and communicate around data problems. We use a Github repo because this provides a mechanism for storing reports, etcs, associated with a given issue. The underlying 4D code and data for the IDP site are NOT part of the repo.
+IDP use this Github repository (britishlibrary/idp-data-issues) to record and communicate around data problems. We use a Github repo because this provides a mechanism for storing reports, etcs, associated with a given issue. The repo also gathers comments around a particular issue and allows an issue to be closed once dealt with. The underlying 4D code and data for the IDP site are NOT part of the repo.
 
 The visibility of the repo (with very little in it) is temporarily Public; however, we intend to make it Private once the various interested parties have been identified and added as named contributors on Github.
 
