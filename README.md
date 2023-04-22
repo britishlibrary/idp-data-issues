@@ -12,7 +12,7 @@ IDP use this Github repository (britishlibrary/idp-data-issues) to record and co
 
 The visibility of the repo (with very little in it) is temporarily Public; however, we intend to make it Private once the various interested parties have been identified and added as named contributors on Github.
 
-A separate Excel sheet on BL Sharepoint is also used for recording issues: [IDP website issues log v.1.0.xlsx](https://bluk.sharepoint.com/:x:/s/PRJ_InternationalDunhuangProjectWebsiteUpdate/EUCIQwcbyQRIorutgvX-K5EB_y0agjP5WuE_58pJvNa7xQ?e=kpk0Ix&CID=36338757-8A2E-4939-B6BC-ACA364A7FA2B) When an issue is added to the repo we record the issue number from the Excel sheet - see for example [Issue #1](https://github.com/britishlibrary/idp-data-issues/issues/1)
+A separate Excel sheet shared on BL Sharepoint is also used for recording issues: [IDP website issues log v.1.0.xlsx](https://bluk.sharepoint.com/:x:/s/PRJ_InternationalDunhuangProjectWebsiteUpdate/EUCIQwcbyQRIorutgvX-K5EB_y0agjP5WuE_58pJvNa7xQ?e=kpk0Ix&CID=36338757-8A2E-4939-B6BC-ACA364A7FA2B) When an issue is added to the repo we record the issue number from the Excel sheet - see for example [Issue #1](https://github.com/britishlibrary/idp-data-issues/issues/1) (which is also number 1 in the Excel sheet).
 
 ## Links
 
