@@ -9,3 +9,7 @@ Wiki Home page on on Github (invited contributors only): [https://github.com/bri
 
 ## Overview
 IDP use this Github repository (britishlibrary/idp-data-issues) to record and communicate around data problems.
+
+Wiki pages internal to the repo are added and modified using Github in a browser: [https://github.com/britishlibrary/idp-data-issues/wiki](https://github.com/britishlibrary/idp-data-issues/wiki)
+
+Issues pages are also added and modified using Github in a browser: [https://github.com/britishlibrary/idp-data-issues/issues](https://github.com/britishlibrary/idp-data-issues/issues)
