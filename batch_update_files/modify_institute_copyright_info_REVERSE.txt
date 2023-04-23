@@ -1,0 +1,48 @@
+Institute id	Institute name	Copyright notice short	Copyright Notice Long
+CBL	Chester Beatty Library	Chester Beatty Library	Reproduced by kind permission of the Trustees of the Chester Beatty Library, Dublin
+UCLA	UCLA	The Regents of the University of California on behalf of the Richard C. Rudolph East Asian Library at UCLA	Reproduced by kind permission of the Regents of the University of California on behalf of the Richard C. Rudolph East Asian Library at UCLA
+FR	Freer Gallery of Art, Smithsonian Institute	Freer Gallery of Art, Smithsonian Institution	Reproduced by kind permission of the Freer Gallery of Art, Smithsonian Institution, Washington DC: Purchase 
+OXB	Bodleian Library		
+BM	British Museum	The British Museum	Reproduced by kind permission of the Trustees of the British Museum
+NLC	National Library of China	The National Library of China	Reproduced by kind permission of the National Library of China
+TJA	Tianjin Art Museum		
+PM	Morgan Library and Museum	The Pierpont Morgan Library, New York. MS G.68, William S. Glazier Collection, given 1984.	The Pierpont Morgan Library, New York. MS G.68, William S. Glazier Collection, given 1984.
+DHA	Dunhuang Academy	The Dunhuang Academy	
+NMI	National Museum, New Delhi		
+IOS	Institute of Oriental Manuscripts	Institute of Oriental Manuscripts, St. Petersburg	
+SF	Private Collection: Sam Fogg		
+AS	Academia Sinica	Academia Sinica	Fu Ssu-nien Library, Institute of History and Philology, Academia Sinica, Nan-Kang Taipei 11529, Taiwan
+LHAS	Library of the Hungarian Academy of Sciences	Library and Information Centre of the Hungarian Academy of Sciences	
+V&A	V&A	Stein textiles loan collection, on loan from the Government of India and the Archaeological Survey of India, copyright: Government of India	V&A Images/Victoria and Albert Museum: Stein textiles loan collection, on loan from the Government of India and the Archaeological Survey of India, copyright: Government of India
+DXBWG	Dingxian Museum		
+KCWWS	Kuche Cultural Relics Bureau		
+KTWWS	Khotan Bureau of Archaeology and Cultural Relics		
+TFWWJ	Turfan Academy		
+BBAW	Berlin-Brandenburgische Akademie der Wissenschaften	Depositum der BERLIN-BRANDENBURGISCHEN AKADEMIE DER WISSENSCHAFTEN in der STAATSBIBLIOTHEK ZU BERLIN - Preussischer Kulturbesitz, Orientabteilung 	STAATSBIBLIOTHEK ZU BERLIN - Preussischer Kulturbesitz Orientabteilung<br> Potsdamer Strasse 33<br> 10785 Berlin<br>
+HKU	University Museum and Art Gallery, HK	Royal Asiatic Society, Hong Kong Branch	
+SH	State Hermitage	The State Hermitage	
+RO	Ryukoku University Omiya Library	Ryukoku University	
+BNF	Bibliothèque nationale de France	Bibliothèque nationale de France	
+BL	British Library	Copyright information is being updated. Contact idp@bl.uk for information.	Reproduced by kind permission of the British Library Board
+MG	Guimet Museum		
+MIHO	Miho Museum		
+PUAM	Princeton University Art Museum	Princeton University Art Museum	
+PEAL	Princeton East Asian Library	The East Asian Library and the Gest Collection, Princeton University	
+LL	Private Collection: Lo Archive	Lo Archive	
+AKU	Museum of Asian Art	Museum für Asiatische Kunst, Kunstsammlung Süd-, Südost- und Zentralasien, Staatliche Museen zu Berlin	Museum für Asiatische Kunst, Kunstsammlung Süd-, Südost- und Zentralasien, Staatliche Museen zu Berlin
+RIKS	Research Institute of Korean Studies		
+XJIA	Xinjiang Institute of Archaeology		
+IMIA	Inner Mongolian Institute of Archaeology	Inner Mongolian Institute of Archaeology	Inner Mongolian Institute of Archaeology
+KGL	Royal Library (Det Kongelige Bibliotek)	Det Kongelige Bibliotek	Det Kongelige Bibliotek <br>Søren Kierkegaards Plads 1 <br>København K, Denmark.
+SMVK-EM	Statens museer för världskultur - Etnografiska muse	Sven Hedins stiftelse	Sven Hedins stiftelse
+GSBWG	Gansu Museum		
+LYS	Lingyin Temple		
+NRI	Needham Research Institute	Needham Research Institute	Needham Research Institute
+TNCL	National Central Library, Taipei	National Central Library, Taipei	
+AIC	Art Institute of Chicago		
+CAM	Cincinnati Art Museum		
+CFM	Chicago Field Museum		
+DIA	Detroit Institute of Art		
+MCA	Middlebury College of Art		
+PMA	Philadelphia Museum of Art		
+MFAB	Museum of Fine Arts, Boston		
