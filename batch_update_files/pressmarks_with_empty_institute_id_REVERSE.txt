@@ -1,0 +1,186 @@
+﻿Pressmark	Institute id	institute name Value	
+Dunhuang Limes		
+F-105		
+F-32/4		
+IOL San 2847	1	
+IOL San 2848	1	
+IOL San 2849	1	
+IOL San 2850	1	
+IOL San 2851	1	
+IOL San 2852	1	
+IOL San 2853	1	
+IOL San 2854	1	
+IOL San 2855	1	
+IOL San 2856	1	
+IOL San 2857	1	
+IOL San 2858	1	
+IOL San 2859	1	
+IOL San 2860	1	
+IOL San 2861	1	
+IOL San 2862	1	
+IOL San 2863	1	
+IOL San 2864	1	
+IOL San 2865	1	
+IOL San 2866	1	
+IOL San 2867	1	
+IOL San 2868	1	
+IOL San 2869	1	
+IOL San 2870	1	
+IOL San 2871	1	
+IOL San 2872	1	
+IOL San 2873	1	
+IOL San 2874	1	
+IOL San 2875	1	
+IOL San 2876	1	
+IOL San 2877	1	
+IOL San 2878	1	
+IOL San 2879	1	
+IOL San 2880	1	
+IOL San 2881	1	
+IOL San 2882	1	
+IOL San 2883	1	
+IOL San 2884	1	
+IOL San 2885	1	
+IOL San 2886	1	
+IOL San 2887	1	
+IOL San 2888	1	
+IOL San 2889	1	
+IOL San 2890	1	
+IOL San 2891	1	
+IOL San 2892	1	
+IOL San 2893	1	
+IOL San 2894	1	
+IOL San 2895	1	
+IOL San 2896	1	
+IOL San 2897	1	
+IOL San 2898	1	
+IOL San 2899	1	
+IOL San 2900	1	
+IOL San 2901	1	
+IOL San 2902	1	
+IOL San 2903	1	
+IOL San 2904	1	
+IOL San 2905	1	
+IOL San 2906	1	
+IOL San 2907	1	
+IOL San 2908	1	
+IOL San 2909	1	
+IOL San 2910	1	
+IOL San 2911	1	
+IOL San 2912	1	
+IOL San 2913	1	
+IOL San 2914	1	
+IOL San 2915	1	
+IOL San 2916	1	
+IOL San 2917	1	
+IOL San 2918	1	
+IOL San 2919	1	
+IOL San 2920	1	
+IOL San 2921	1	
+IOL San 2922	1	
+IOL San 2923	1	
+IOL San 2924	1	
+IOL San 2925	1	
+IOL San 2926	1	
+IOL San 2927	1	
+IOL San 2928	1	
+IOL San 2929	1	
+IOL San 2930	1	
+IOL San 2931	1	
+IOL San 2932	1	
+IOL San 2933	1	
+IOL San 2934	1	
+IOL San 2935	1	
+IOL San 2936	1	
+IOL San 2937	1	
+IOL San 2938	1	
+IOL San 2939	1	
+IOL San 2940	1	
+IOL San 2941	1	
+IOL San 2942	1	
+IOL San 2943	1	
+IOL San 2944	1	
+IOL San 2945	1	
+IOL San 2946	1	
+IOL San 2947	1	
+IOL San 2948	1	
+IOL San 2949	1	
+IOL San 2950	1	
+IOL San 2951	1	
+IOL San 2952	1	
+IOL San 2953	1	
+IOL San 2954	1	
+IOL San 2955	1	
+IOL San 2956	1	
+IOL San 2957	1	
+IOL San 2958	1	
+IOL San 2959	1	
+IOL San 2960	1	
+IOL San 2961	1	
+IOL San 2962	1	
+IOL San 2963	1	
+IOL San 2964	1	
+IOL San 2965	1	
+IOL San 2966	1	
+IOL San 2967	1	
+IOL San 2968	1	
+IOL San 2969	1	
+IOL San 2970	1	
+IOL San 2971	1	
+IOL San 2972	1	
+IOL San 2973	1	
+IOL San 2974	1	
+IOL San 2975	1	
+IOL San 2976	1	
+IOL San 2977	1	
+IOL San 2978	1	
+IOL San 2979	1	
+IOL San 2980	1	
+IOL San 2981	1	
+IOL San 2982	1	
+IOL San 2983	1	
+IOL San 2984	1	
+IOL San 2985	1	
+IOL San 2986	1	
+MIK B 846		
+Or.12380/891		
+Pelliot chinois 2003		
+Pelliot chinois 2683		
+Pelliot chinois 4031		
+Pelliot chinois 4518 (1)		
+Pelliot chinois 4518 (10)		
+Pelliot chinois 4518 (11)		
+Pelliot chinois 4518 (11)		
+Pelliot chinois 4518 (13)		
+WD 1347 f.12r		
+WD 1347 f.12v		
+WD 1347 f.18r		
+WD 1347 f.19r		
+WD 1347 f.7v		
+X717/Plate 10		
+X717/Plate 11		
+X717/Plate 12		
+X717/Plate 14		
+X717/Plate 15		
+X717/Plate 16		
+X717/Plate 17		
+X717/Plate 18		
+X717/Plate 19		
+X717/Plate 2		
+X717/Plate 20		
+X717/Plate 22		
+X717/Plate 23		
+X717/Plate 24		
+X717/Plate 25		
+X717/Plate 26		
+X717/Plate 27		
+X717/Plate 28		
+X717/Plate 29		
+X717/Plate 30		
+X717/Plate 4a		
+X717/Plate 4b		
+X717/Plate 5		
+X717/Plate 6		
+X717/Plate 7		
+X717/Plate 8		
+X717/Plate 9		
