@@ -1,0 +1,57 @@
+﻿<html>
+<head>
+<title>[Item Type] values used with count of pressmarks (summary report)</title></head>
+<body><h1>[Item Type] values used with count of pressmarks (summary report)</h1><p>Report created: <b>2023-05-12 07:56 pm</b> by script <b>http:/localhost/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/scripts/PHP/create_reports_based_on_SQL.php</b>
+<p><em>WARNING: SQL for this report is run against 4D database on Dev machine - potentially this is out of date with Live</em></p><hr/>
+	<h4>Report run info</h4>
+	<table border='1'>
+	<tr><td>Current hard-coded run number:</td><td><span style='color:red;'><b>9</b></span></td></tr>
+	<tr><td>Title:</td><td><span style='color:red;'>[Item Type] values used with count of pressmarks (summary report)</span></td></tr>
+	<tr><td>Description:</td><td><span style='color:red;'>[Item Type] values used with count of pressmarks (summary report)</span></td></tr>
+	<tr><td>Script creating report:</td><td><b>http:/localhost/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/scripts/PHP/create_reports_based_on_SQL.php</b></td></tr>
+	<tr><td>Run date and time:</td><td><b>2023-05-12 07:56 pm</b></td></tr>
+	<tr><td>4D data (on Dev) last modified:</td><td><b>2023-05-11 09:32 pm</b> (WARNING: might have been copied over from Production long before that)</td></tr>
+	<tr><td>4D data (on Dev) filename:</td><td><b>D:/British Library/IDP/4D/File Transfer from 4D/IDP_DB_Data.4DD</b></td></tr>
+	
+	<tr><td>SQL:</td><td><span style='color:red;'>SELECT B.`English`, A.`Item Type Value`,  C.`Institute id`, A.`Pressmark`, A.`SyncKey` FROM `Item Type` AS A, Concordance AS B, Items AS C WHERE A.`Item Type Value` = B.`Unique Identifier` AND B.`Field Type`='Item Type' AND C.`Pressmark` = A.`Pressmark` ORDER BY 1 ASC, 3 ASC, 4 ASC</span></td></tr>
+	<tr><td>Subtotaling?:</td><td><span style='color:black;'>Y</span></td></tr>	
+	<tr><td>UUID table:</td><td><span style='color:black;'></span></td></tr>	
+	<tr><td>Report file:</td><td><b>D:/British Library/bl github group/bl_github_clones/idp-data-issues/reports/report_item_type_value_counts.html</b></td></tr>
+	<tr><td>Report on locahost:</td><td><a target='REP_WIN' href='http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-data-issues/reports/report_item_type_value_counts.html'>http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-data-issues/reports/report_item_type_value_counts.html</a></td></tr>
+	<tr><td>Report on Github:</td><td><a target='REP_WIN' href='https://britishlibrary.github.io/idp-data-issues/reports/report_item_type_value_counts.html'>https://britishlibrary.github.io/idp-data-issues/reports/report_item_type_value_counts.html</a></td></tr>
+	</table>
+	<hr/><table border = '1'>
+<tr>
+<th>English</th>
+<th>Item Type Value</th>
+<th>Institute id</th>
+<th>COUNT (Pressmark)</th>
+</tr>
+<tr><td>Archaeological site</td><td>ITEM000489</td><td></td><td>2</td></tr>
+<tr><td>Archaeological site</td><td>ITEM000489</td><td>BL</td><td>1</td></tr>
+<tr><td>Archaeological site</td><td>ITEM000489</td><td>DHA</td><td>6</td></tr>
+<tr><td>Archaeological site</td><td>ITEM000489</td><td>KCWWS</td><td>4</td></tr>
+<tr><td>Archaeological site</td><td>ITEM000489</td><td>TFWWJ</td><td>4</td></tr>
+<tr><td>Archaeological site</td><td>ITEM000489</td><td>XJIA</td><td>55</td></tr>
+<tr><td>Archive</td><td>ITEM001484</td><td></td><td>57</td></tr>
+<tr><td>Archive</td><td>ITEM001484</td><td>BL</td><td>402</td></tr>
+<tr><td>Archive</td><td>ITEM001484</td><td>NRI</td><td>19</td></tr>
+<tr><td>Book</td><td>ITEM001825</td><td></td><td>1</td></tr>
+<tr><td>Book</td><td>ITEM001825</td><td>BL</td><td>204</td></tr>
+<tr><td>Book</td><td>ITEM001825</td><td>NLC</td><td>1</td></tr>
+<tr><td>Book</td><td>ITEM001825</td><td>NRI</td><td>1</td></tr>
+<tr><td>Coin or medal</td><td>ITEM002320</td><td>BL</td><td>1</td></tr>
+<tr><td>Map and plans</td><td>ITEM002044</td><td>BL</td><td>1</td></tr>
+<tr><td>Map and plans</td><td>ITEM002044</td><td>NRI</td><td>1</td></tr>
+<tr><td>Print or drawing</td><td>ITEM002319</td><td>BL</td><td>7</td></tr>
+<tr><td>Print or drawing</td><td>ITEM002319</td><td>BM</td><td>1</td></tr>
+<tr><td>Textile</td><td>ITEM000482</td><td>BBAW</td><td>2</td></tr>
+<tr><td>Textile</td><td>ITEM000482</td><td>BL</td><td>53</td></tr>
+<tr><td>Textile</td><td>ITEM000482</td><td>BM</td><td>354</td></tr>
+<tr><td>Textile</td><td>ITEM000482</td><td>MG</td><td>41</td></tr>
+<tr><td>Textile</td><td>ITEM000482</td><td>NLC</td><td>1</td></tr>
+<tr><td>Textile</td><td>ITEM000482</td><td>PEAL</td><td>3</td></tr>
+<tr><td>Textile</td><td>ITEM000482</td><td>SF</td><td>4</td></tr>
+<tr><td>Textile</td><td>ITEM000482</td><td>V&A</td><td>653</td></tr>
+</body>
+</html>
