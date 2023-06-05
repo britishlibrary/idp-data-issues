@@ -1,0 +1,235 @@
+Ôªø<html>
+<head>
+<title>[Languages And Scripts] values used with count of pressmarks (summary report)</title></head>
+<body><h1>[Languages And Scripts] values used with count of pressmarks (summary report)</h1><p>Report created: <b>2023-06-05 04:10 pm</b> by script <b>http:/localhost/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/scripts/PHP/create_reports_based_on_SQL.php</b>
+<p><em>WARNING: SQL for this report is run against 4D database on Dev machine - potentially this is out of date with Live</em></p><hr/>
+	<h4>Report run info</h4>
+	<table border='1'>
+	<tr><td>Current hard-coded run number:</td><td><span style='color:red;'><b>20</b></span></td></tr>
+	<tr><td>Title:</td><td><span style='color:red;'>[Languages And Scripts] values used with count of pressmarks (summary report)</span></td></tr>
+	<tr><td>Description:</td><td><span style='color:red;'>[Languages And Scripts] values used with count of pressmarks (summary report)</span></td></tr>
+	<tr><td>Script creating report:</td><td><b>http:/localhost/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/scripts/PHP/create_reports_based_on_SQL.php</b></td></tr>
+	<tr><td>Run date and time:</td><td><b>2023-06-05 04:10 pm</b></td></tr>
+	<tr><td>4D data (on Dev) last modified:</td><td><b>2023-06-05 02:35 pm</b> (WARNING: might have been copied over from Production long before that)</td></tr>
+	<tr><td>4D data (on Dev) filename:</td><td><b>D:/British Library/IDP/4D/File Transfer from 4D/Data_v19/IDP_DB_Data.4DD</b> (WARNING: is possible we are in fact running SQL against a different dataset - e.g. if currently have 4D db open pointing at v.18 data rather than v.19 data</td></tr>
+	
+	<tr><td>SQL:</td><td><span style='color:red;'>SELECT B.`English`, A.`Language Value`,  C.`Institute id`, A.`Pressmark`, A.`SyncKey` FROM `Languages And Scripts` AS A, Concordance AS B, Items AS C WHERE A.`Language Value` = B.`Unique Identifier` AND B.`Field Type` = 'Language & Script' AND C.`Pressmark` = A.`Pressmark` ORDER BY 1 ASC, 3 ASC, 4 ASC</span></td></tr>
+	<tr><td>Subtotaling?:</td><td><span style='color:black;'>Y</span></td></tr>	
+	<tr><td>UUID table:</td><td><span style='color:black;'></span></td></tr>	
+	<tr><td>Report file:</td><td><b>D:/British Library/bl github group/bl_github_clones/idp-data-issues/reports/report_languages_value_counts.html</b></td></tr>
+	<tr><td>Report on locahost:</td><td><a target='REP_WIN' href='http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-data-issues/reports/report_languages_value_counts.html'>http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-data-issues/reports/report_languages_value_counts.html</a></td></tr>
+	<tr><td>Report on Github:</td><td><a target='REP_WIN' href='https://britishlibrary.github.io/idp-data-issues/reports/report_languages_value_counts.html'>https://britishlibrary.github.io/idp-data-issues/reports/report_languages_value_counts.html</a></td></tr>
+	</table>
+	<hr/><table border = '1'>
+<tr>
+<th>English</th>
+<th>Language Value</th>
+<th>Institute id</th>
+<th>COUNT (Pressmark)</th>
+</tr>
+<tr><td>'Phags-pa (script)</td><td>LANG000451</td><td>AKU</td><td>1</td></tr>
+<tr><td>'Phags-pa (script)</td><td>LANG000451</td><td>BL</td><td>3</td></tr>
+<tr><td>Arabic (lang.)</td><td>LANG000158</td><td>AKU</td><td>2</td></tr>
+<tr><td>Arabic (lang.)</td><td>LANG000158</td><td>BBAW</td><td>2</td></tr>
+<tr><td>Arabic (lang.)</td><td>LANG000158</td><td>BL</td><td>2</td></tr>
+<tr><td>Arabic (script)</td><td>LANG002310</td><td>BL</td><td>2</td></tr>
+<tr><td>Bactrian (lang.)</td><td>LANG000094</td><td>BBAW</td><td>6</td></tr>
+<tr><td>Bactrian (lang.)</td><td>LANG000094</td><td>SF</td><td>31</td></tr>
+<tr><td>Brahmi (script)</td><td>LANG000103</td><td>AKU</td><td>112</td></tr>
+<tr><td>Brahmi (script)</td><td>LANG000103</td><td>BBAW</td><td>23795</td></tr>
+<tr><td>Brahmi (script)</td><td>LANG000103</td><td>BL</td><td>11751</td></tr>
+<tr><td>Brahmi (script)</td><td>LANG000103</td><td>BM</td><td>4</td></tr>
+<tr><td>Brahmi (script)</td><td>LANG000103</td><td>CBL</td><td>1</td></tr>
+<tr><td>Brahmi (script)</td><td>LANG000103</td><td>IOS</td><td>1</td></tr>
+<tr><td>Brahmi (script)</td><td>LANG000103</td><td>NLC</td><td>1</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td></td><td>4</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>AKU</td><td>84</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>AS</td><td>38</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>BBAW</td><td>5563</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>BL</td><td>21772</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>BM</td><td>121</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>BNF</td><td>4023</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>CBL</td><td>4</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>DHA</td><td>346</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>FR</td><td>3</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>HKU</td><td>1</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>INST001961</td><td>5</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>IOS</td><td>2653</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>KGL</td><td>16</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>LL</td><td>1</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>MFAB</td><td>2</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>MG</td><td>3</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>NLC</td><td>10928</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>PEAL</td><td>153</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>PM</td><td>1</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>PMA</td><td>1</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>PUAM</td><td>1</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>RO</td><td>6886</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>SF</td><td>13</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>TNCL</td><td>100</td></tr>
+<tr><td>Chinese (lang.)</td><td>LANG000085</td><td>UCLA</td><td>1</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td></td><td>1</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>20/06/2014</td><td>2</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>AKU</td><td>84</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>AS</td><td>38</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>BBAW</td><td>5581</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>BL</td><td>21779</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>BM</td><td>116</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>BNF</td><td>9</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>CBL</td><td>4</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>FR</td><td>3</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>HKU</td><td>1</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>IOS</td><td>1</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>KGL</td><td>16</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>LL</td><td>1</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>MFAB</td><td>2</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>NLC</td><td>2</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>PEAL</td><td>153</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>PM</td><td>1</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>PMA</td><td>1</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>PUAM</td><td>1</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>SF</td><td>13</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>TNCL</td><td>100</td></tr>
+<tr><td>Chinese (script)</td><td>LANG002302</td><td>UCLA</td><td>1</td></tr>
+<tr><td>East Syriac Ma·∏èn·∏•ƒÅyƒÅ (Nestorian) &lt;†ÂL Ò </td><td>LANG002311</td><td>BBAW</td><td>1</td></tr>
+<tr><td>English (lang.)</td><td>LANG001384</td><td></td><td>16</td></tr>
+<tr><td>English (lang.)</td><td>LANG001384</td><td>BL</td><td>966</td></tr>
+<tr><td>English (lang.)</td><td>LANG001384</td><td>LHAS</td><td>1</td></tr>
+<tr><td>English (lang.)</td><td>LANG001384</td><td>NRI</td><td>20</td></tr>
+<tr><td>forged</td><td>LANG000192</td><td>BL</td><td>24</td></tr>
+<tr><td>forged</td><td>LANG000192</td><td>SF</td><td>1</td></tr>
+<tr><td>French (lang.)</td><td>LANG001385</td><td>BL</td><td>9</td></tr>
+<tr><td>Gandhari Prakrit (lang.)</td><td>LANG000087</td><td>BBAW</td><td>2</td></tr>
+<tr><td>Gandhari Prakrit (lang.)</td><td>LANG000087</td><td>BL</td><td>442</td></tr>
+<tr><td>Gandhari Prakrit (lang.)</td><td>LANG000087</td><td>SF</td><td>2</td></tr>
+<tr><td>German (lang.)</td><td>LANG001480</td><td>BL</td><td>1</td></tr>
+<tr><td>Gupta (script)</td><td>LANG000101</td><td>BBAW</td><td>14</td></tr>
+<tr><td>Gupta (script)</td><td>LANG000101</td><td>BL</td><td>9</td></tr>
+<tr><td>Hebrew (script)</td><td>LANG002217</td><td>BL</td><td>1</td></tr>
+<tr><td>Hebrew (script)</td><td>LANG002217</td><td>BNF</td><td>1</td></tr>
+<tr><td>Hebrew (script)</td><td>LANG002217</td><td>NLC</td><td>1</td></tr>
+<tr><td>Hebrew (script)</td><td>LANG002217</td><td>SF</td><td>1</td></tr>
+<tr><td>Judaeo-Persian (lang.)</td><td>LANG000093</td><td>BL</td><td>1</td></tr>
+<tr><td>Judaeo-Persian (lang.)</td><td>LANG000093</td><td>BNF</td><td>1</td></tr>
+<tr><td>Judaeo-Persian (lang.)</td><td>LANG000093</td><td>NLC</td><td>1</td></tr>
+<tr><td>Judaeo-Persian (lang.)</td><td>LANG000093</td><td>SF</td><td>1</td></tr>
+<tr><td>Kharosthi (script)</td><td>LANG000091</td><td>AKU</td><td>2</td></tr>
+<tr><td>Kharosthi (script)</td><td>LANG000091</td><td>BBAW</td><td>12</td></tr>
+<tr><td>Kharosthi (script)</td><td>LANG000091</td><td>BL</td><td>461</td></tr>
+<tr><td>Kharosthi (script)</td><td>LANG000091</td><td>SF</td><td>3</td></tr>
+<tr><td>Khitan (lang.)</td><td>LANG000739</td><td>BBAW</td><td>1</td></tr>
+<tr><td>Khitan large (script)</td><td>LANG000740</td><td>BBAW</td><td>2</td></tr>
+<tr><td>Khotanese (lang.)</td><td>LANG000088</td><td>BBAW</td><td>16</td></tr>
+<tr><td>Khotanese (lang.)</td><td>LANG000088</td><td>BL</td><td>2368</td></tr>
+<tr><td>Khotanese (lang.)</td><td>LANG000088</td><td>BM</td><td>4</td></tr>
+<tr><td>Khotanese (lang.)</td><td>LANG000088</td><td>BNF</td><td>66</td></tr>
+<tr><td>Khotanese (lang.)</td><td>LANG000088</td><td>SF</td><td>3</td></tr>
+<tr><td>Kok Turkic (script)</td><td>LANG000100</td><td>BL</td><td>13</td></tr>
+<tr><td>Latin (lang.)</td><td>LANG002321</td><td>BL</td><td>1</td></tr>
+<tr><td>Manichaean (script)</td><td>LANG002308</td><td>BBAW</td><td>8</td></tr>
+<tr><td>Manichaean (script)</td><td>LANG002308</td><td>BL</td><td>10</td></tr>
+<tr><td>Middle Persian (lang.)</td><td>LANG000095</td><td>AKU</td><td>2</td></tr>
+<tr><td>Middle Persian (lang.)</td><td>LANG000095</td><td>BBAW</td><td>769</td></tr>
+<tr><td>Middle Persian (lang.)</td><td>LANG000095</td><td>BL</td><td>6</td></tr>
+<tr><td>Mongolian (lang.)</td><td>LANG000096</td><td>BBAW</td><td>1</td></tr>
+<tr><td>Mongolian (lang.)</td><td>LANG000096</td><td>BL</td><td>17</td></tr>
+<tr><td>Mongolian (script)</td><td>LANG002307</td><td>BL</td><td>15</td></tr>
+<tr><td>Nagari (script)</td><td>LANG001267</td><td>BBAW</td><td>1</td></tr>
+<tr><td>New Persian (lang.)</td><td>LANG001181</td><td>AKU</td><td>1</td></tr>
+<tr><td>New Persian (lang.)</td><td>LANG001181</td><td>BBAW</td><td>20</td></tr>
+<tr><td>New Persian (lang.)</td><td>LANG001181</td><td>BM</td><td>3</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td></td><td>2</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>AKU</td><td>1371</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>BL</td><td>17454</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>BLS</td><td>1</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>BM</td><td>845</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>BNF</td><td>5</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>CBL</td><td>1</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>DHA</td><td>6</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>INST001961</td><td>439</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>KCWWS</td><td>4</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>LHAS</td><td>6496</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>MG</td><td>75</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>NRI</td><td>372</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>PEAL</td><td>14</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>RO</td><td>1</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>SF</td><td>3</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>SH</td><td>2</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>SMVK-EM</td><td>1</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>TFWWJ</td><td>4</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>V&A</td><td>648</td></tr>
+<tr><td>not applicable</td><td>LANG000420</td><td>XJIA</td><td>54</td></tr>
+<tr><td>Old Turkic (lang.)</td><td>LANG001224</td><td>AKU</td><td>27</td></tr>
+<tr><td>Old Turkic (lang.)</td><td>LANG001224</td><td>BBAW</td><td>627</td></tr>
+<tr><td>Old Turkic (lang.)</td><td>LANG001224</td><td>BL</td><td>114</td></tr>
+<tr><td>Pala (script)</td><td>LANG001255</td><td>BBAW</td><td>8</td></tr>
+<tr><td>Parthian (lang.)</td><td>LANG001180</td><td>BBAW</td><td>997</td></tr>
+<tr><td>Parthian (lang.)</td><td>LANG001180</td><td>BL</td><td>5</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>AKU</td><td>50</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>BBAW</td><td>17295</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>BL</td><td>8692</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>BM</td><td>2</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>BNF</td><td>13</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>CBL</td><td>1</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>IOS</td><td>2</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>NLC</td><td>1</td></tr>
+<tr><td>Sanskrit (lang.)</td><td>LANG000098</td><td>SF</td><td>1</td></tr>
+<tr><td>Siddham (script)</td><td>LANG001254</td><td>BBAW</td><td>1</td></tr>
+<tr><td>Siddham (script)</td><td>LANG001254</td><td>BL</td><td>3</td></tr>
+<tr><td>Sogdian (lang.)</td><td>LANG000090</td><td>AKU</td><td>5</td></tr>
+<tr><td>Sogdian (lang.)</td><td>LANG000090</td><td>BBAW</td><td>1509</td></tr>
+<tr><td>Sogdian (lang.)</td><td>LANG000090</td><td>BL</td><td>90</td></tr>
+<tr><td>Sogdian (lang.)</td><td>LANG000090</td><td>BNF</td><td>44</td></tr>
+<tr><td>Sogdian (script)</td><td>LANG002312</td><td>AKU</td><td>2</td></tr>
+<tr><td>Sogdian (script)</td><td>LANG002312</td><td>BBAW</td><td>573</td></tr>
+<tr><td>Sogdian (script)</td><td>LANG002312</td><td>BL</td><td>74</td></tr>
+<tr><td>Syriac (lang.)</td><td>LANG001182</td><td>AKU</td><td>70</td></tr>
+<tr><td>Syriac (lang.)</td><td>LANG001182</td><td>BBAW</td><td>574</td></tr>
+<tr><td>Tangut (lang.)</td><td>LANG000099</td><td>AS</td><td>1</td></tr>
+<tr><td>Tangut (lang.)</td><td>LANG000099</td><td>BBAW</td><td>5</td></tr>
+<tr><td>Tangut (lang.)</td><td>LANG000099</td><td>BL</td><td>4227</td></tr>
+<tr><td>Tangut (lang.)</td><td>LANG000099</td><td>BM</td><td>1</td></tr>
+<tr><td>Tangut (lang.)</td><td>LANG000099</td><td>BNF</td><td>1</td></tr>
+<tr><td>Tangut (lang.)</td><td>LANG000099</td><td>IOS</td><td>4404</td></tr>
+<tr><td>Tangut (lang.)</td><td>LANG000099</td><td>PEAL</td><td>8</td></tr>
+<tr><td>Tangut (script)</td><td>LANG002303</td><td>AS</td><td>1</td></tr>
+<tr><td>Tangut (script)</td><td>LANG002303</td><td>BBAW</td><td>5</td></tr>
+<tr><td>Tangut (script)</td><td>LANG002303</td><td>BL</td><td>5715</td></tr>
+<tr><td>Tangut (script)</td><td>LANG002303</td><td>BM</td><td>1</td></tr>
+<tr><td>Tangut (script)</td><td>LANG002303</td><td>BNF</td><td>1</td></tr>
+<tr><td>Tangut (script)</td><td>LANG002303</td><td>PEAL</td><td>8</td></tr>
+<tr><td>Tibetan (lang.)</td><td>LANG000086</td><td>AS</td><td>9</td></tr>
+<tr><td>Tibetan (lang.)</td><td>LANG000086</td><td>BBAW</td><td>275</td></tr>
+<tr><td>Tibetan (lang.)</td><td>LANG000086</td><td>BL</td><td>8093</td></tr>
+<tr><td>Tibetan (lang.)</td><td>LANG000086</td><td>BM</td><td>7</td></tr>
+<tr><td>Tibetan (lang.)</td><td>LANG000086</td><td>BNF</td><td>4453</td></tr>
+<tr><td>Tibetan (lang.)</td><td>LANG000086</td><td>IOS</td><td>3</td></tr>
+<tr><td>Tibetan (lang.)</td><td>LANG000086</td><td>NLC</td><td>36</td></tr>
+<tr><td>Tibetan (lang.)</td><td>LANG000086</td><td>PEAL</td><td>2</td></tr>
+<tr><td>Tibetan (script)</td><td>LANG002304</td><td>AS</td><td>9</td></tr>
+<tr><td>Tibetan (script)</td><td>LANG002304</td><td>BBAW</td><td>275</td></tr>
+<tr><td>Tibetan (script)</td><td>LANG002304</td><td>BL</td><td>8108</td></tr>
+<tr><td>Tibetan (script)</td><td>LANG002304</td><td>BM</td><td>7</td></tr>
+<tr><td>Tibetan (script)</td><td>LANG002304</td><td>BNF</td><td>10</td></tr>
+<tr><td>Tibetan (script)</td><td>LANG002304</td><td>NLC</td><td>1</td></tr>
+<tr><td>Tibetan (script)</td><td>LANG002304</td><td>PEAL</td><td>2</td></tr>
+<tr><td>Tocharian A (lang.)</td><td>LANG002313</td><td>BBAW</td><td>2</td></tr>
+<tr><td>Tocharian B (lang.)</td><td>LANG000092</td><td>AKU</td><td>61</td></tr>
+<tr><td>Tocharian B (lang.)</td><td>LANG000092</td><td>BBAW</td><td>6826</td></tr>
+<tr><td>Tocharian B (lang.)</td><td>LANG000092</td><td>BL</td><td>1268</td></tr>
+<tr><td>Tumshuqese (lang.)</td><td>LANG000775</td><td>BBAW</td><td>6</td></tr>
+<tr><td>Tumshuqese (lang.)</td><td>LANG000775</td><td>BL</td><td>5</td></tr>
+<tr><td>unidentified (lang.)</td><td>LANG000097</td><td>BBAW</td><td>5</td></tr>
+<tr><td>unidentified (lang.)</td><td>LANG000097</td><td>BL</td><td>257</td></tr>
+<tr><td>unidentified (lang.)</td><td>LANG000097</td><td>RO</td><td>3</td></tr>
+<tr><td>unknown (script)</td><td>LANG002315</td><td>BL</td><td>2</td></tr>
+<tr><td>Uyghur (script)</td><td>LANG000089</td><td>AKU</td><td>26</td></tr>
+<tr><td>Uyghur (script)</td><td>LANG000089</td><td>AS</td><td>1</td></tr>
+<tr><td>Uyghur (script)</td><td>LANG000089</td><td>BBAW</td><td>554</td></tr>
+<tr><td>Uyghur (script)</td><td>LANG000089</td><td>BL</td><td>408</td></tr>
+<tr><td>Uyghur (script)</td><td>LANG000089</td><td>BNF</td><td>20</td></tr>
+<tr><td>Uyghur (script)</td><td>LANG000089</td><td>IOS</td><td>2</td></tr>
+<tr><td>Uyghur (script)</td><td>LANG000089</td><td>PEAL</td><td>10</td></tr>
+<tr><td>Uyghur (script)</td><td>LANG000089</td><td>RO</td><td>4</td></tr>
+</body>
+</html>
