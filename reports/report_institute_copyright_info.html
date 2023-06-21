@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
 <title>[Institute] records copyright info</title></head>
-<body><h1>[Institute] records copyright info</h1><p>Report created: <b>2023-05-12 01:18 pm</b> by script <b>http:/localhost/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/scripts/PHP/create_reports_based_on_SQL.php</b>
+<body><h1>[Institute] records copyright info</h1><p>Report created: <b>2023-06-21 10:43 am</b> by script <b>http:/localhost/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/scripts/PHP/create_reports_based_on_SQL.php</b>
 <p><em>WARNING: SQL for this report is run against 4D database on Dev machine - potentially this is out of date with Live</em></p><hr/>
 	<h4>Report run info</h4>
 	<table border='1'>
@@ -9,73 +9,78 @@
 	<tr><td>Title:</td><td><span style='color:red;'>[Institute] records copyright info</span></td></tr>
 	<tr><td>Description:</td><td><span style='color:red;'>[Institute] records copyright info</span></td></tr>
 	<tr><td>Script creating report:</td><td><b>http:/localhost/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/scripts/PHP/create_reports_based_on_SQL.php</b></td></tr>
-	<tr><td>Run date and time:</td><td><b>2023-05-12 01:18 pm</b></td></tr>
-	<tr><td>4D data (on Dev) last modified:</td><td><b>2023-05-11 09:32 pm</b> (WARNING: might have been copied over from Production long before that)</td></tr>
-	<tr><td>4D data (on Dev) filename:</td><td><b>D:/British Library/IDP/4D/File Transfer from 4D/IDP_DB_Data.4DD</b></td></tr>
+	<tr><td>Run date and time:</td><td><b>2023-06-21 10:43 am</b></td></tr>
+	<tr><td>4D data (on Dev) last modified:</td><td><b>2023-06-16 09:39 pm</b> (WARNING: might have been copied over from Production long before that)</td></tr>
+	<tr><td>4D data (on Dev) filename:</td><td><b>D:/British Library/IDP/4D/File Transfer from 4D/Data_v19/IDP_DB_Data.4DD</b> (WARNING: is possible we are in fact running SQL against a different dataset - e.g. if currently have 4D db open pointing at v.18 data rather than v.19 data</td></tr>
 	
-	<tr><td>SQL:</td><td><span style='color:red;'>SELECT  A.`Institute id`, A.`Institute name`, A.`Copyright notice short`, A.`Copyright Notice Long`, A.`SyncKey` FROM Institute AS A ORDER BY `Institute id` ASC LIMIT 5000</span></td></tr>
+	<tr><td>SQL:</td><td><span style='color:red;'>SELECT  A.`Institute id`, A.`Institute name`, A.`Copyright notice short`, A.`Copyright Notice Long`, A.`Institute URL`, A.`SyncKey` FROM Institute AS A ORDER BY `Institute id` ASC LIMIT 5000</span></td></tr>
 	<tr><td>Subtotaling?:</td><td><span style='color:black;'>N</span></td></tr>	
 	<tr><td>UUID table:</td><td><span style='color:black;'></span></td></tr>	
 	<tr><td>Report file:</td><td><b>D:/British Library/bl github group/bl_github_clones/idp-data-issues/reports/report_institute_copyright_info.html</b></td></tr>
 	<tr><td>Report on locahost:</td><td><a target='REP_WIN' href='http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-data-issues/reports/report_institute_copyright_info.html'>http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-data-issues/reports/report_institute_copyright_info.html</a></td></tr>
 	<tr><td>Report on Github:</td><td><a target='REP_WIN' href='https://britishlibrary.github.io/idp-data-issues/reports/report_institute_copyright_info.html'>https://britishlibrary.github.io/idp-data-issues/reports/report_institute_copyright_info.html</a></td></tr>
 	</table>
-	<hr/><table border = '1'>
+	<hr/><table border = '1' width='100%'>
+<thead>
 <tr>
 <th>[seq]</th>
 <th>Institute id</th>
 <th>Institute name</th>
 <th>Copyright notice short</th>
 <th>Copyright Notice Long</th>
+<th>Institute URL</th>
 <th>SyncKey</th>
 </tr>
-<tr><td>[1]</td><td>AIC</td><td>Art Institute of Chicago</td><td>Art Institute of Chicago</td><td></td><td>01/0001114922</td></tr>
-<tr><td>[2]</td><td>AKU</td><td>Museum of Asian Art</td><td>Museum für Asiatische Kunst, Kunstsammlung Süd-, Südost- und Zentralasien, Staatliche Museen zu Berlin</td><td>Museum für Asiatische Kunst, Kunstsammlung Süd-, Südost- und Zentralasien, Staatliche Museen zu Berlin</td><td>05/0000667773</td></tr>
-<tr><td>[3]</td><td>AS</td><td>Academia Sinica</td><td>Academia Sinica</td><td>Fu Ssu-nien Library, Institute of History and Philology, Academia Sinica, Nan-Kang Taipei 11529, Taiwan</td><td>01/0000460535</td></tr>
-<tr><td>[4]</td><td>BBAW</td><td>Berlin-Brandenburgische Akademie der Wissenschaften</td><td>Depositum der BERLIN-BRANDENBURGISCHEN AKADEMIE DER WISSENSCHAFTEN in der STAATSBIBLIOTHEK ZU BERLIN - Preussischer Kulturbesitz, Orientabteilung </td><td>STAATSBIBLIOTHEK ZU BERLIN - Preussischer Kulturbesitz Orientabteilung&lt;br&gt; Potsdamer Strasse 33&lt;br&gt; 10785 Berlin&lt;br&gt;</td><td>05/0000574002</td></tr>
-<tr><td>[5]</td><td>BL</td><td>British Library</td><td>Copyright information is being updated. Contact idp@bl.uk for information.</td><td>Reproduced by kind permission of the British Library Board</td><td>01/0000633435</td></tr>
-<tr><td>[6]</td><td>BM</td><td>British Museum</td><td>The British Museum</td><td>Reproduced by kind permission of the Trustees of the British Museum</td><td>01/0000346398</td></tr>
-<tr><td>[7]</td><td>BNF</td><td>Bibliothèque nationale de France</td><td>Bibliothèque nationale de France</td><td></td><td>07/0000850453</td></tr>
-<tr><td>[8]</td><td>CAM</td><td>Cincinnati Art Museum</td><td>Cincinnati Art Museum</td><td></td><td>01/0001115858</td></tr>
-<tr><td>[9]</td><td>CBL</td><td>Chester Beatty Library</td><td>Chester Beatty Library</td><td>Reproduced by kind permission of the Trustees of the Chester Beatty Library, Dublin</td><td>01/0000346394</td></tr>
-<tr><td>[10]</td><td>CFM</td><td>Chicago Field Museum</td><td>Chicago Field Museum</td><td></td><td>01/0001126361</td></tr>
-<tr><td>[11]</td><td>DHA</td><td>Dunhuang Academy</td><td>The Dunhuang Academy</td><td></td><td>01/0000393537</td></tr>
-<tr><td>[12]</td><td>DIA</td><td>Detroit Institute of Art</td><td>Detroit Institute of Art</td><td></td><td>01/0001126533</td></tr>
-<tr><td>[13]</td><td>DXBWG</td><td>Dingxian Museum</td><td>Dingxian Museum</td><td></td><td>01/0000791852</td></tr>
-<tr><td>[14]</td><td>FR</td><td>Freer Gallery of Art, Smithsonian Institute</td><td>Freer Gallery of Art, Smithsonian Institution</td><td>Reproduced by kind permission of the Freer Gallery of Art, Smithsonian Institution, Washington DC: Purchase </td><td>01/0000346396</td></tr>
-<tr><td>[15]</td><td>GSBWG</td><td>Gansu Museum</td><td>Gansu Museum</td><td></td><td>01/0000791853</td></tr>
-<tr><td>[16]</td><td>HKU</td><td>University Museum and Art Gallery, HK</td><td>Royal Asiatic Society, Hong Kong Branch</td><td></td><td>01/0000578288</td></tr>
-<tr><td>[17]</td><td>IMIA</td><td>Inner Mongolian Institute of Archaeology</td><td>Inner Mongolian Institute of Archaeology</td><td>Inner Mongolian Institute of Archaeology</td><td>01/0000765099</td></tr>
-<tr><td>[18]</td><td>IOS</td><td>Institute of Oriental Manuscripts</td><td>Institute of Oriental Manuscripts, St. Petersburg</td><td></td><td>03/0000426630</td></tr>
-<tr><td>[19]</td><td>KCWWS</td><td>Kuche Cultural Relics Bureau</td><td>Kuche Cultural Relics Bureau</td><td></td><td>01/0000508893</td></tr>
-<tr><td>[20]</td><td>KGL</td><td>Royal Library (Det Kongelige Bibliotek)</td><td>Det Kongelige Bibliotek</td><td>Det Kongelige Bibliotek &lt;br&gt;Søren Kierkegaards Plads 1&lt;br&gt;København K, Denmark.</td><td>01/0000771452</td></tr>
-<tr><td>[21]</td><td>KTWWS</td><td>Khotan Bureau of Archaeology and Cultural Relics</td><td>Khotan Bureau of Archaeology and Cultural Relics</td><td></td><td>01/0000508894</td></tr>
-<tr><td>[22]</td><td>LHAS</td><td>Library of the Hungarian Academy of Sciences</td><td>Library and Information Centre of the Hungarian Academy of Sciences</td><td></td><td>01/0000470575</td></tr>
-<tr><td>[23]</td><td>LL</td><td>Private Collection: Lo Archive</td><td>Lo Archive</td><td></td><td>01/0000667480</td></tr>
-<tr><td>[24]</td><td>LYS</td><td>Lingyin Temple</td><td>Lingyin Temple</td><td></td><td>01/0000791854</td></tr>
-<tr><td>[25]</td><td>MCA</td><td>Middlebury College of Art</td><td>Middlebury College of Art</td><td></td><td>01/0001126569</td></tr>
-<tr><td>[26]</td><td>MFAB</td><td>Museum of Fine Arts, Boston</td><td>Museum of Fine Arts, Boston</td><td></td><td>01/0001134540</td></tr>
-<tr><td>[27]</td><td>MG</td><td>Guimet Museum</td><td>Guimet Museum</td><td></td><td>07/0000850454</td></tr>
-<tr><td>[28]</td><td>MIHO</td><td>Miho Museum</td><td>Miho Museum</td><td></td><td>01/0000652141</td></tr>
-<tr><td>[29]</td><td>NLC</td><td>National Library of China</td><td>The National Library of China</td><td>Reproduced by kind permission of the National Library of China</td><td>01/0000346399</td></tr>
-<tr><td>[30]</td><td>NMI</td><td>National Museum, New Delhi</td><td>National Museum, New Delhi</td><td></td><td>01/0000404679</td></tr>
-<tr><td>[31]</td><td>NRI</td><td>Needham Research Institute</td><td>Needham Research Institute</td><td>Needham Research Institute</td><td>01/0000983988</td></tr>
-<tr><td>[32]</td><td>OXB</td><td>Bodleian Library</td><td>Bodleian Library</td><td></td><td>01/0000634285</td></tr>
-<tr><td>[33]</td><td>PEAL</td><td>Princeton East Asian Library</td><td>The East Asian Library and the Gest Collection, Princeton University</td><td></td><td>01/0000665214</td></tr>
-<tr><td>[34]</td><td>PM</td><td>Morgan Library and Museum</td><td>The Pierpont Morgan Library, New York. MS G.68, William S. Glazier Collection, given 1984.</td><td>The Pierpont Morgan Library, New York. MS G.68, William S. Glazier Collection, given 1984.</td><td>01/0000386742</td></tr>
-<tr><td>[35]</td><td>PMA</td><td>Philadelphia Museum of Art</td><td>Philadelphia Museum of Art</td><td></td><td>01/0001134539</td></tr>
-<tr><td>[36]</td><td>PUAM</td><td>Princeton University Art Museum</td><td>Princeton University Art Museum</td><td></td><td>01/0000663238</td></tr>
-<tr><td>[37]</td><td>RIKS</td><td>Research Institute of Korean Studies</td><td>Research Institute of Korean Studies</td><td></td><td>08/0000746143</td></tr>
-<tr><td>[38]</td><td>RO</td><td>Ryukoku University Omiya Library</td><td>Ryukoku University</td><td></td><td>04/0000545908</td></tr>
-<tr><td>[39]</td><td>SF</td><td>Private Collection: Sam Fogg</td><td>Private Collection: Sam Fogg</td><td></td><td>01/0000455661</td></tr>
-<tr><td>[40]</td><td>SH</td><td>State Hermitage</td><td>The State Hermitage</td><td></td><td>01/0000974731</td></tr>
-<tr><td>[41]</td><td>SMVK-EM</td><td>Statens museer för världskultur - Etnografiska muse</td><td>Sven Hedins stiftelse</td><td>Sven Hedins stiftelse</td><td>01/0000872467</td></tr>
-<tr><td>[42]</td><td>TFWWJ</td><td>Turfan Academy</td><td>Turfan Academy</td><td></td><td>01/0000508895</td></tr>
-<tr><td>[43]</td><td>TJA</td><td>Tianjin Art Museum</td><td>Tianjin Art Museum</td><td></td><td>01/0000393334</td></tr>
-<tr><td>[44]</td><td>TNCL</td><td>National Central Library, Taipei</td><td>National Central Library, Taipei</td><td></td><td>01/0000997590</td></tr>
-<tr><td>[45]</td><td>UCLA</td><td>UCLA</td><td>The Regents of the University of California on behalf of the Richard C. Rudolph East Asian Library at UCLA</td><td>Reproduced by kind permission of the Regents of the University of California on behalf of the Richard C. Rudolph East Asian Library at UCLA</td><td>01/0000346395</td></tr>
-<tr><td>[46]</td><td>V&A</td><td>V&A</td><td>Stein textiles loan collection, on loan from the Government of India and the Archaeological Survey of India, copyright: Government of India</td><td>V&A Images/Victoria and Albert Museum: Stein textiles loan collection, on loan from the Government of India and the Archaeological Survey of India, copyright: Government of India</td><td>01/0000484258</td></tr>
-<tr><td>[47]</td><td>XJIA</td><td>Xinjiang Institute of Archaeology</td><td>Xinjiang Institute of Archaeology</td><td></td><td>01/0000762059</td></tr>
-<table>
+</thead>
+<tbody>
+<tr><td>[1]</td><td>AIC</td><td>Art Institute of Chicago</td><td>Art Institute of Chicago</td><td></td><td></td><td>01/0001114922</td></tr>
+<tr><td>[2]</td><td>AKU</td><td>Museum of Asian Art</td><td>Museum für Asiatische Kunst, Kunstsammlung Süd-, Südost- und Zentralasien, Staatliche Museen zu Berlin</td><td>Museum für Asiatische Kunst, Kunstsammlung Süd-, Südost- und Zentralasien, Staatliche Museen zu Berlin</td><td>Dr. Lilla Russell-Smith,  Kuratorin für Zentralasiatische Kunst,  Museum für Asiatische Kunst,  Kunstsammlung Süd-, Südost- und Zentralasien,  Staatliche Museen zu Berlin - Preußischer Kulturbesitz,  Takustr 40,  14195 Berlin;  Fon: +49 30 8301-364;  Fax: +49 30 8301-502;  l.russell-smith@smb.spk-berlin.de;  www.smb.museum</td><td>05/0000667773</td></tr>
+<tr><td>[3]</td><td>AS</td><td>Academia Sinica</td><td>Academia Sinica</td><td>Fu Ssu-nien Library, Institute of History and Philology, Academia Sinica, Nan-Kang Taipei 11529, Taiwan</td><td>Fu Ssu-nien Library&lt;br&gt; Institute of History and Philology&lt;br&gt; Academia Sinica&lt;br&gt; Nan-Kang Taipei 11529&lt;br&gt; Taiwan&lt;br&gt; &lt;a href="http://lib.ihp.sinica.edu.tw/" target="_blank"&gt;Library website&lt;/a&gt; </td><td>01/0000460535</td></tr>
+<tr><td>[4]</td><td>BBAW</td><td>Berlin-Brandenburgische Akademie der Wissenschaften</td><td>Depositum der BERLIN-BRANDENBURGISCHEN AKADEMIE DER WISSENSCHAFTEN in der STAATSBIBLIOTHEK ZU BERLIN - Preussischer Kulturbesitz, Orientabteilung </td><td>STAATSBIBLIOTHEK ZU BERLIN - Preussischer Kulturbesitz Orientabteilung&lt;br&gt; Potsdamer Strasse 33&lt;br&gt; 10785 Berlin&lt;br&gt;</td><td>Depositum der BERLIN-BRANDENBURGISCHEN AKADEMIE DER WISSENSCHAFTEN in der STAATSBIBLIOTHEK ZU BERLIN - Preussischer Kulturbesitz, Orientabteilung &lt;p&gt;Potsdamer Strasse 33 10785 Berlin; Briefe: 10772 BERLIN; Pakete: Tiergarten Potsdamer Strasse 33 10785 Berlin; Telefon: +049-30-266-435806 oder 266-0; Telefax: +49-30-266-439956; E-mail: orientabt@sbb.spk-berlin.de&lt;/p&gt;</td><td>05/0000574002</td></tr>
+<tr><td>[5]</td><td>BL</td><td>British Library</td><td>Copyright information is being updated. Contact idp@bl.uk for information.</td><td>Reproduced by kind permission of the British Library Board</td><td>96 Euston Road&lt;br&gt; London NW1 2DB, UK&lt;br&gt; tel: +44 (0)20 7412 7000&lt;br&gt; &lt;a href="http://www.bl.uk" target="_blank"&gt;website&lt;/a&gt;</td><td>01/0000633435</td></tr>
+<tr><td>[6]</td><td>BM</td><td>British Museum</td><td>The British Museum</td><td>Reproduced by kind permission of the Trustees of the British Museum</td><td>Great Russell Street&lt;br&gt;London WC1B 3DG, UK&lt;br&gt; tel: +44 (0)20 7323 8000&lt;br&gt;&lt;a href="http://www.britishmuseum.org" target="_blank"&gt;website&lt;/a&gt;</td><td>01/0000346398</td></tr>
+<tr><td>[7]</td><td>BNF</td><td>Bibliothèque nationale de France</td><td>Bibliothèque nationale de France</td><td></td><td>58, rue de Richelieu &lt;br&gt;75002 Paris &lt;br&gt;France &lt;br&gt;+33 (0)1 53 79 59 59 &lt;br&gt;&lt;a href="http://www.bnf.fr"&gt;http://www.bnf.fr&lt;/a&gt;</td><td>07/0000850453</td></tr>
+<tr><td>[8]</td><td>CAM</td><td>Cincinnati Art Museum</td><td>Cincinnati Art Museum</td><td></td><td></td><td>01/0001115858</td></tr>
+<tr><td>[9]</td><td>CBL</td><td>Chester Beatty Library</td><td>Chester Beatty Library</td><td>Reproduced by kind permission of the Trustees of the Chester Beatty Library, Dublin</td><td>Dublin Castle Dublin 2, Ireland&lt;BR&gt;&lt;a href="http://www.cbl.ie" target="_blank"&gt;website&lt;/a&gt;&lt;br&gt;Director: &lt;a href="mailto:mryan@cbl.ie"&gt;Dr Michael Ryan&lt;/a&gt;&lt;br&gt;Curator of the East Asian Collections: &lt;a href="mailto:smccausland@cbl.ie"&gt;Shane MacCausland&lt;/a&gt;</td><td>01/0000346394</td></tr>
+<tr><td>[10]</td><td>CFM</td><td>Chicago Field Museum</td><td>Chicago Field Museum</td><td></td><td></td><td>01/0001126361</td></tr>
+<tr><td>[11]</td><td>DHA</td><td>Dunhuang Academy</td><td>The Dunhuang Academy</td><td></td><td></td><td>01/0000393537</td></tr>
+<tr><td>[12]</td><td>DIA</td><td>Detroit Institute of Art</td><td>Detroit Institute of Art</td><td></td><td></td><td>01/0001126533</td></tr>
+<tr><td>[13]</td><td>DXBWG</td><td>Dingxian Museum</td><td>Dingxian Museum</td><td></td><td></td><td>01/0000791852</td></tr>
+<tr><td>[14]</td><td>FR</td><td>Freer Gallery of Art, Smithsonian Institute</td><td>Freer Gallery of Art, Smithsonian Institution</td><td>Reproduced by kind permission of the Freer Gallery of Art, Smithsonian Institution, Washington DC: Purchase </td><td>Jefferson Drive at 12th St. SW&lt;br&gt; Washington DC 20650-0707 USA&lt;br&gt; &lt;a href="http://www.asia.si.edu" target="_blank"&gt;Institute website&lt;/a&gt;&lt;br&gt; &lt;a href="mailto:joseph.chang@asia.si.edu"&gt;Joseph Chang&lt;/a&gt;&lt;br&gt; &lt;a href="mailto:Stephen.Allee@asia.si.edu"&gt;Stephen Allee&lt;/a&gt;</td><td>01/0000346396</td></tr>
+<tr><td>[15]</td><td>GSBWG</td><td>Gansu Museum</td><td>Gansu Museum</td><td></td><td></td><td>01/0000791853</td></tr>
+<tr><td>[16]</td><td>HKU</td><td>University Museum and Art Gallery, HK</td><td>Royal Asiatic Society, Hong Kong Branch</td><td></td><td>University of Hong Kong &lt;br&gt;94 Bonham Road &lt;br&gt;Pokfulam &lt;br&gt;Hong Kong &lt;br&gt;&lt;a href="http://www.hku.hk/hkumag" target="_blank"&gt;www.hku.hk/hkumag&lt;/a&gt; email: &lt;a href="mailto:ayfwonga@hkucc.hku.hk"&gt;Anita WONG Yin-fong&lt;/a&gt;</td><td>01/0000578288</td></tr>
+<tr><td>[17]</td><td>IMIA</td><td>Inner Mongolian Institute of Archaeology</td><td>Inner Mongolian Institute of Archaeology</td><td>Inner Mongolian Institute of Archaeology</td><td></td><td>01/0000765099</td></tr>
+<tr><td>[18]</td><td>IOS</td><td>Institute of Oriental Manuscripts</td><td>Institute of Oriental Manuscripts, St. Petersburg</td><td></td><td></td><td>03/0000426630</td></tr>
+<tr><td>[19]</td><td>KCWWS</td><td>Kuche Cultural Relics Bureau</td><td>Kuche Cultural Relics Bureau</td><td></td><td></td><td>01/0000508893</td></tr>
+<tr><td>[20]</td><td>KGL</td><td>Royal Library (Det Kongelige Bibliotek)</td><td>Det Kongelige Bibliotek</td><td>Det Kongelige Bibliotek &lt;br&gt;Søren Kierkegaards Plads 1&lt;br&gt;København K, Denmark.</td><td>Søren Kierkegaards Plads 1 &lt;br&gt;København K, Denmark. &lt;br&gt;Tel: +45 3347 4887 &lt;br&gt;Fax: +45 3393 2218 &lt;br&gt;Email: blp@kb.dk &lt;br&gt;Website: &lt;a href="http://www.kb.dk"&gt;http://www.kb.dk&lt;/a&gt;</td><td>01/0000771452</td></tr>
+<tr><td>[21]</td><td>KTWWS</td><td>Khotan Bureau of Archaeology and Cultural Relics</td><td>Khotan Bureau of Archaeology and Cultural Relics</td><td></td><td></td><td>01/0000508894</td></tr>
+<tr><td>[22]</td><td>LHAS</td><td>Library of the Hungarian Academy of Sciences</td><td>Library and Information Centre of the Hungarian Academy of Sciences</td><td></td><td>&lt;a href="mailto:keleti@konyvtar.mta.hu"&gt;Agnes Kelecsényi&lt;/a&gt;</td><td>01/0000470575</td></tr>
+<tr><td>[23]</td><td>LL</td><td>Private Collection: Lo Archive</td><td>Lo Archive</td><td></td><td>Private collection.</td><td>01/0000667480</td></tr>
+<tr><td>[24]</td><td>LYS</td><td>Lingyin Temple</td><td>Lingyin Temple</td><td></td><td></td><td>01/0000791854</td></tr>
+<tr><td>[25]</td><td>MCA</td><td>Middlebury College of Art</td><td>Middlebury College of Art</td><td></td><td></td><td>01/0001126569</td></tr>
+<tr><td>[26]</td><td>MFAB</td><td>Museum of Fine Arts, Boston</td><td>Museum of Fine Arts, Boston</td><td></td><td></td><td>01/0001134540</td></tr>
+<tr><td>[27]</td><td>MG</td><td>Guimet Museum</td><td>Guimet Museum</td><td></td><td>6, place d'Iéna &lt;br&gt;75016 Paris &lt;br&gt;France &lt;br&gt;+33 (0)1 56 52 53 00</td><td>07/0000850454</td></tr>
+<tr><td>[28]</td><td>MIHO</td><td>Miho Museum</td><td>Miho Museum</td><td></td><td></td><td>01/0000652141</td></tr>
+<tr><td>[29]</td><td>NLC</td><td>National Library of China</td><td>The National Library of China</td><td>Reproduced by kind permission of the National Library of China</td><td>33 Zhongguancun Nandajie&lt;br&gt; Haidian district&lt;br&gt; Beijing 100081&lt;br&gt; People's Republic of China&lt;br&gt; Tel: +86 (0)10 8854 4114&lt;br&gt; &lt;a href="http://www.nlc.gov.cn/GB/channel1/index.html" target="_blank"&gt;website&lt;/a&gt;</td><td>01/0000346399</td></tr>
+<tr><td>[30]</td><td>NMI</td><td>National Museum, New Delhi</td><td>National Museum, New Delhi</td><td></td><td></td><td>01/0000404679</td></tr>
+<tr><td>[31]</td><td>NRI</td><td>Needham Research Institute</td><td>Needham Research Institute</td><td>Needham Research Institute</td><td>Needham Research Institute &lt;br&gt;8 Sylvester Road &lt;br&gt;Cambridge CB3 9AF &lt;br&gt;&lt;a href="http://www.nri.org.uk" target="_blank"&gt;www.nri.org.uk &lt;br&gt;+44 (0) 1223 311545 </td><td>01/0000983988</td></tr>
+<tr><td>[32]</td><td>OXB</td><td>Bodleian Library</td><td>Bodleian Library</td><td></td><td></td><td>01/0000634285</td></tr>
+<tr><td>[33]</td><td>PEAL</td><td>Princeton East Asian Library</td><td>The East Asian Library and the Gest Collection, Princeton University</td><td></td><td>&lt;br&gt;East Asian Library &lt;br&gt;33 Frist Campus Center &lt;br&gt;Room 317 &lt;br&gt;Princeton University &lt;br&gt;Princeton, NJ 08544 &lt;br&gt;USA &lt;br&gt;Tel: +1 (609) 258-3182 &lt;br&gt;Fax: +1(609) 258-4573 &lt;br&gt;&lt;a href="http://http://eastasianlib.princeton.edu/index.htm" target="_blank"&gt;http://eastasianlib.princeton.edu/index.htm&lt;/a&gt;</td><td>01/0000665214</td></tr>
+<tr><td>[34]</td><td>PM</td><td>Morgan Library and Museum</td><td>The Pierpont Morgan Library, New York. MS G.68, William S. Glazier Collection, given 1984.</td><td>The Pierpont Morgan Library, New York. MS G.68, William S. Glazier Collection, given 1984.</td><td>225 Madison Avenue&lt;br&gt;New York&lt;br&gt;NY 10016-2305 USA&lt;br&gt;Website: &lt;a href="http://www.themorgan.org" target="_blank"&gt;www.themorgan.org&lt;/a&gt;</td><td>01/0000386742</td></tr>
+<tr><td>[35]</td><td>PMA</td><td>Philadelphia Museum of Art</td><td>Philadelphia Museum of Art</td><td></td><td></td><td>01/0001134539</td></tr>
+<tr><td>[36]</td><td>PUAM</td><td>Princeton University Art Museum</td><td>Princeton University Art Museum</td><td></td><td>See &lt;a href="www.princetonartmuseum.org/" target="_blank"&gt;the Museum website&lt;/a&gt; for details.</td><td>01/0000663238</td></tr>
+<tr><td>[37]</td><td>RIKS</td><td>Research Institute of Korean Studies</td><td>Research Institute of Korean Studies</td><td></td><td>Korea University, Anam-dong Seongbuk-gu, Seoul&lt;br&gt; 136-701, KOREA&lt;br&gt; Phone: +82-2-3290-2494&lt;br&gt; Fax:+82-2-3290-2596</td><td>08/0000746143</td></tr>
+<tr><td>[38]</td><td>RO</td><td>Ryukoku University Omiya Library</td><td>Ryukoku University</td><td></td><td>125-1 Daiku-cho,  Shichijo-dori Omiya Higashi-iru,&lt;br&gt; Shimogyo-ku, Kyoto, JAPAN&lt;br&gt; 600-8268&lt;br&gt; tel: +81-75-343-3318&lt;br&gt; fax: +81-75-344-0345&lt;br&gt; &lt;a href="http://opac.lib.ryukoku.ac.jp/web/index.htm"&gt;website&lt;/a&gt; </td><td>04/0000545908</td></tr>
+<tr><td>[39]</td><td>SF</td><td>Private Collection: Sam Fogg</td><td>Private Collection: Sam Fogg</td><td></td><td>15D Clifford Street, London W1S 4JZ &lt;a href="http://www.samfogg.com" target="_blank"&gt;website&lt;/a&gt;</td><td>01/0000455661</td></tr>
+<tr><td>[40]</td><td>SH</td><td>State Hermitage</td><td>The State Hermitage</td><td></td><td></td><td>01/0000974731</td></tr>
+<tr><td>[41]</td><td>SMVK-EM</td><td>Statens museer för världskultur - Etnografiska muse</td><td>Sven Hedins stiftelse</td><td>Sven Hedins stiftelse</td><td></td><td>01/0000872467</td></tr>
+<tr><td>[42]</td><td>TFWWJ</td><td>Turfan Academy</td><td>Turfan Academy</td><td></td><td></td><td>01/0000508895</td></tr>
+<tr><td>[43]</td><td>TJA</td><td>Tianjin Art Museum</td><td>Tianjin Art Museum</td><td></td><td></td><td>01/0000393334</td></tr>
+<tr><td>[44]</td><td>TNCL</td><td>National Central Library, Taipei</td><td>National Central Library, Taipei</td><td></td><td>&lt;a href="mailto:hmyu@ncl.edu.tw"&gt;Hsiao-ming Yu,&lt;/a&gt; Director of Special Collections Division.</td><td>01/0000997590</td></tr>
+<tr><td>[45]</td><td>UCLA</td><td>UCLA</td><td>The Regents of the University of California on behalf of the Richard C. Rudolph East Asian Library at UCLA</td><td>Reproduced by kind permission of the Regents of the University of California on behalf of the Richard C. Rudolph East Asian Library at UCLA</td><td>Box 951575&lt;br&gt; Los Angeles, CA 90095-1575 USA&lt;br&gt; &lt;a href="http://www.library.ucla.edu/libraries/eastasian" target="_blank"&gt;website&lt;/a&gt;&lt;br&gt; Librarian: &lt;a href="mailto:ctsiang@library.ucla.edu"&gt;Amy Tsiang&lt;/a&gt;</td><td>01/0000346395</td></tr>
+<tr><td>[46]</td><td>V&A</td><td>V&A</td><td>Stein textiles loan collection, on loan from the Government of India and the Archaeological Survey of India, copyright: Government of India</td><td>V&A Images/Victoria and Albert Museum: Stein textiles loan collection, on loan from the Government of India and the Archaeological Survey of India, copyright: Government of India</td><td>&lt;a href="mailto:b.mckillop@vam.ac.uk"&gt;Beth McKillop&lt;/a&gt;, Keeper of the Asian Department Victoria and Albert Museum Cromwell Road London, SW7 2RL, UK &lt;a href="http://www.vam.ac.uk" target="_blank"&gt;V&A website</td><td>01/0000484258</td></tr>
+<tr><td>[47]</td><td>XJIA</td><td>Xinjiang Institute of Archaeology</td><td>Xinjiang Institute of Archaeology</td><td></td><td></td><td>01/0000762059</td></tr>
+</tbody>
+</table>
 </body>
 </html>
