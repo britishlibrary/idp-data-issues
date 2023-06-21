@@ -1,48 +1,48 @@
 Institute id	Institute URL
-AIC	https://www.artic.edu
-AKU	www.smb.museum
-AS	http://lib.ihp.sinica.edu.tw
-BBAW	https://www.bbaw.de
-BL	http://www.bl.uk
-BM	http://www.britishmuseum.org
-BNF	http://www.bnf.fr
-CAM	https://www.cincinnatiartmuseum.org
-CBL	http://www.cbl.ie
-CFM	https://www.fieldmuseum.org
-DHA	http://en.dha.ac.cn
-DIA	https://dia.org
+AIC	<a target="_blank" href="https://www.artic.edu">https://www.artic.edu</a>  
+AKU	<a target="_blank" href="http://www.smb.museum">http://www.smb.museum</a>  Dr. Lilla Russell-Smith, Kuratorin fur Zentralasiatische Kunst, Museum fur Asiatische Kunst, Kunstsammlung Sud-, Sudost- und Zentralasien, Staatliche Museen zu Berlin - Preußischer Kulturbesitz, Takustr 40, 14195 Berlin; Fon: +49 30 8301-364; Fax: +49 30 8301-502; l.russell-smith@smb.spk-berlin.de; www.smb.museum
+AS	<a target="_blank" href="http://lib.ihp.sinica.edu.tw">http://lib.ihp.sinica.edu.tw</a>  Fu Ssu-nien Library<br> Institute of History and Philology<br> Academia Sinica<br> Nan-Kang Taipei 11529<br> Taiwan<br> <a href="http://lib.ihp.sinica.edu.tw/" target="_blank">Library website</a>
+BBAW	<a target="_blank" href="https://www.bbaw.de">https://www.bbaw.de</a>  Depositum der BERLIN-BRANDENBURGISCHEN AKADEMIE DER WISSENSCHAFTEN in der STAATSBIBLIOTHEK ZU BERLIN - Preussischer Kulturbesitz, Orientabteilung <p>Potsdamer Strasse 33 10785 Berlin; Briefe: 10772 BERLIN; Pakete: Tiergarten Potsdamer Strasse 33 10785 Berlin; Telefon: +049-30-266-435806 oder 266-0; Telefax: +49-30-266-439956; E-mail: orientabt@sbb.spk-berlin.de</p>
+BL	<a target="_blank" href="http://www.bl.uk">http://www.bl.uk</a>  96 Euston Road<br> London NW1 2DB, UK<br> tel: +44 (0)20 7412 7000<br> <a href="http://www.bl.uk" target="_blank">website</a>
+BM	<a target="_blank" href="http://www.britishmuseum.org">http://www.britishmuseum.org</a>  Great Russell Street<br>London WC1B 3DG, UK<br> tel: +44 (0)20 7323 8000<br><a href="http://www.britishmuseum.org" target="_blank">website</a>
+BNF	<a target="_blank" href="http://www.bnf.fr">http://www.bnf.fr</a>  58, rue de Richelieu <br>75002 Paris <br>France <br>+33 (0)1 53 79 59 59 <br><a href="http://www.bnf.fr">http://www.bnf.fr</a>
+CAM	<a target="_blank" href="https://www.cincinnatiartmuseum.org">https://www.cincinnatiartmuseum.org</a>  
+CBL	<a target="_blank" href="http://www.cbl.ie">http://www.cbl.ie</a>  Dublin Castle Dublin 2, Ireland<BR><a href="http://www.cbl.ie" target="_blank">website</a><br>Director: <a href="mailto:mryan@cbl.ie">Dr Michael Ryan</a><br>Curator of the East Asian Collections: <a href="mailto:smccausland@cbl.ie">Shane MacCausland</a>
+CFM	<a target="_blank" href="https://www.fieldmuseum.org">https://www.fieldmuseum.org</a>  
+DHA	<a target="_blank" href="http://en.dha.ac.cn">http://en.dha.ac.cn</a>  
+DIA	<a target="_blank" href="https://dia.org">https://dia.org</a>  
 DXBWG	
-FR	http://www.asia.si.edu
-GSBWG	http://www.gansumuseum.com
-HKU	http://www.hku.hk/hkumag
+FR	<a target="_blank" href="http://www.asia.si.edu">http://www.asia.si.edu</a>  Jefferson Drive at 12th St. SW<br> Washington DC 20650-0707 USA<br> <a href="http://www.asia.si.edu" target="_blank">Institute website</a><br> <a href="mailto:joseph.chang@asia.si.edu">Joseph Chang</a><br> <a href="mailto:Stephen.Allee@asia.si.edu">Stephen Allee</a>
+GSBWG	<a target="_blank" href="http://www.gansumuseum.com">http://www.gansumuseum.com</a>  
+HKU	<a target="_blank" href="http://www.hku.hk/hkumag">http://www.hku.hk/hkumag</a>  University of Hong Kong <br>94 Bonham Road <br>Pokfulam <br>Hong Kong <br><a href="http://www.hku.hk/hkumag" target="_blank">www.hku.hk/hkumag</a> email: <a href="mailto:ayfwonga@hkucc.hku.hk">Anita WONG Yin-fong</a>
 IMIA	
-IOS	http://www.orientalstudies.ru
+IOS	<a target="_blank" href="http://www.orientalstudies.ru">http://www.orientalstudies.ru</a>  
 KCWWS	
-KGL	http://www.kb.dk
+KGL	<a target="_blank" href="http://www.kb.dk">http://www.kb.dk</a>  Soren Kierkegaards Plads 1?<br>Kobenhavn K, Denmark. <br>Tel: +45 3347 4887 <br>Fax: +45 3393 2218 <br>Email: blp@kb.dk <br>Website: <a href="http://www.kb.dk">http://www.kb.dk</a>
 KTWWS	
-LHAS	https://konyvtar.mta.hu
-LL	
-LYS	https://www.lingyinsi.org
-MCA	https://www.middlebury.edu/museum
-MFAB	https://www.mfa.org
-MG	https://www.guimet.fr
-MIHO	https://www.miho.jp
-NLC	http://www.nlc.gov.cn/GB/channel1/index.html
-NMI	https://nationalmuseumindia.gov.in
-NRI	http://www.nri.org.uk
-OXB	https://www.bodleian.ox.ac.uk
-PEAL	http://eastasianlib.princeton.edu/index.htm
-PM	http://www.themorgan.org
-PMA	https://philamuseum.org
-PUAM	www.princetonartmuseum.org
-RIKS	https://riks.korea.ac.kr
-RO	http://opac.lib.ryukoku.ac.jp/web/index.htm
-SF	http://www.samfogg.com
-SH	https://www.hermitagemuseum.org
-SMVK-EM	https://www.etnografiskamuseet.se
+LHAS	<a target="_blank" href="https://konyvtar.mta.hu">https://konyvtar.mta.hu</a>  <a href="mailto:keleti@konyvtar.mta.hu">Agnes Kelecsényi</a>
+LL	<a target="_blank" href=""></a>  Private collection.
+LYS	<a target="_blank" href="https://www.lingyinsi.org">https://www.lingyinsi.org</a>  
+MCA	<a target="_blank" href="https://www.middlebury.edu/museum">https://www.middlebury.edu/museum</a>  
+MFAB	<a target="_blank" href="https://www.mfa.org">https://www.mfa.org</a>  
+MG	<a target="_blank" href="https://www.guimet.fr">https://www.guimet.fr</a>  6, place d"Iéna <br>75016 Paris <br>France <br>+33 (0)1 56 52 53 00
+MIHO	<a target="_blank" href="https://www.miho.jp">https://www.miho.jp</a>  
+NLC	<a target="_blank" href="http://www.nlc.gov.cn/GB/channel1/index.html">http://www.nlc.gov.cn/GB/channel1/index.html</a>  33 Zhongguancun Nandajie<br> Haidian district<br> Beijing 100081<br> People"s Republic of China<br> Tel: +86 (0)10 8854 4114<br> <a href="http://www.nlc.gov.cn/GB/channel1/index.html" target="_blank">website</a>
+NMI	<a target="_blank" href="https://nationalmuseumindia.gov.in">https://nationalmuseumindia.gov.in</a>  
+NRI	<a target="_blank" href="http://www.nri.org.uk">http://www.nri.org.uk</a>  Needham Research Institute <br>8 Sylvester Road <br>Cambridge CB3 9AF <br><a href="http://www.nri.org.uk" target="_blank">www.nri.org.uk <br>+44 (0) 1223 311545
+OXB	<a target="_blank" href="https://www.bodleian.ox.ac.uk">https://www.bodleian.ox.ac.uk</a>  
+PEAL	<a target="_blank" href="http://eastasianlib.princeton.edu/index.htm">http://eastasianlib.princeton.edu/index.htm</a>  <br>East Asian Library <br>33 Frist Campus Center <br>Room 317 <br>Princeton University <br>Princeton, NJ 08544 <br>USA <br>Tel: +1 (609) 258-3182 <br>Fax: +1(609) 258-4573 <br><a href="http://http://eastasianlib.princeton.edu/index.htm" target="_blank">http://eastasianlib.princeton.edu/index.htm</a>
+PM	<a target="_blank" href="http://www.themorgan.org">http://www.themorgan.org</a>  225 Madison Avenue<br>New York<br>NY 10016-2305 USA<br>Website: <a href="http://www.themorgan.org" target="_blank">www.themorgan.org</a>
+PMA	<a target="_blank" href="https://philamuseum.org">https://philamuseum.org</a>  
+PUAM	<a target="_blank" href="www.princetonartmuseum.org">www.princetonartmuseum.org</a>  See <a href="www.princetonartmuseum.org/" target="_blank">the Museum website</a> for details.
+RIKS	<a target="_blank" href="https://riks.korea.ac.kr">https://riks.korea.ac.kr</a>  Korea University, Anam-dong Seongbuk-gu, Seoul<br> 136-701, KOREA<br> Phone: +82-2-3290-2494<br> Fax:+82-2-3290-2596
+RO	<a target="_blank" href="http://opac.lib.ryukoku.ac.jp/web/index.htm">http://opac.lib.ryukoku.ac.jp/web/index.htm</a>  125-1 Daiku-cho, Shichijo-dori Omiya Higashi-iru,<br> Shimogyo-ku, Kyoto, JAPAN<br> 600-8268<br> tel: +81-75-343-3318<br> fax: +81-75-344-0345<br> <a href="http://opac.lib.ryukoku.ac.jp/web/index.htm">website</a>
+SF	<a target="_blank" href="http://www.samfogg.com">http://www.samfogg.com</a>  15D Clifford Street, London W1S 4JZ <a href="http://www.samfogg.com" target="_blank">website</a>
+SH	<a target="_blank" href="https://www.hermitagemuseum.org">https://www.hermitagemuseum.org</a>  
+SMVK-EM	<a target="_blank" href="https://www.etnografiskamuseet.se">https://www.etnografiskamuseet.se</a>  
 TFWWJ	
-TJA	https://www.tjbwg.com
-TNCL	https://www.ncl.edu.tw
-UCLA	http://www.library.ucla.edu
-V&A	http://www.vam.ac.uk
+TJA	<a target="_blank" href="https://www.tjbwg.com">https://www.tjbwg.com</a>  
+TNCL	<a target="_blank" href="https://www.ncl.edu.tw">https://www.ncl.edu.tw</a>  <a href="mailto:hmyu@ncl.edu.tw">Hsiao-ming Yu,</a> Director of Special Collections Division.
+UCLA	<a target="_blank" href="http://www.library.ucla.edu">http://www.library.ucla.edu</a>  Box 951575<br> Los Angeles, CA 90095-1575 USA<br> <a href="http://www.library.ucla.edu/libraries/eastasian" target="_blank">website</a><br> Librarian: <a href="mailto:ctsiang@library.ucla.edu">Amy Tsiang</a>
+V&A	<a target="_blank" href="http://www.vam.ac.uk">http://www.vam.ac.uk</a>  <a href="mailto:b.mckillop@vam.ac.uk">Beth McKillop</a>, Keeper of the Asian Department Victoria and Albert Museum Cromwell Road London, SW7 2RL, UK <a href="http://www.vam.ac.uk" target="_blank">V&A website
 XJIA	
