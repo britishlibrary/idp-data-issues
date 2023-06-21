@@ -1,0 +1,48 @@
+Institute id	Institute URL
+AIC	https://www.artic.edu
+AKU	www.smb.museum
+AS	http://lib.ihp.sinica.edu.tw
+BBAW	https://www.bbaw.de
+BL	http://www.bl.uk
+BM	http://www.britishmuseum.org
+BNF	http://www.bnf.fr
+CAM	https://www.cincinnatiartmuseum.org
+CBL	http://www.cbl.ie
+CFM	https://www.fieldmuseum.org
+DHA	http://en.dha.ac.cn
+DIA	https://dia.org
+DXBWG	
+FR	http://www.asia.si.edu
+GSBWG	http://www.gansumuseum.com
+HKU	http://www.hku.hk/hkumag
+IMIA	
+IOS	http://www.orientalstudies.ru
+KCWWS	
+KGL	http://www.kb.dk
+KTWWS	
+LHAS	https://konyvtar.mta.hu
+LL	
+LYS	https://www.lingyinsi.org
+MCA	https://www.middlebury.edu/museum
+MFAB	https://www.mfa.org
+MG	https://www.guimet.fr
+MIHO	https://www.miho.jp
+NLC	http://www.nlc.gov.cn/GB/channel1/index.html
+NMI	https://nationalmuseumindia.gov.in
+NRI	http://www.nri.org.uk
+OXB	https://www.bodleian.ox.ac.uk
+PEAL	http://eastasianlib.princeton.edu/index.htm
+PM	http://www.themorgan.org
+PMA	https://philamuseum.org
+PUAM	www.princetonartmuseum.org
+RIKS	https://riks.korea.ac.kr
+RO	http://opac.lib.ryukoku.ac.jp/web/index.htm
+SF	http://www.samfogg.com
+SH	https://www.hermitagemuseum.org
+SMVK-EM	https://www.etnografiskamuseet.se
+TFWWJ	
+TJA	https://www.tjbwg.com
+TNCL	https://www.ncl.edu.tw
+UCLA	http://www.library.ucla.edu
+V&A	http://www.vam.ac.uk
+XJIA	
